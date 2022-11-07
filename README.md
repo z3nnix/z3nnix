@@ -1,0 +1,5 @@
+-👋Hey, I'm SetScript
+-🇷🇺I'm from Russia
+-📃I program in Ruby
+-🐭I can be contacted via my discord|SetScript#5647
+-🐺you just come in if that
