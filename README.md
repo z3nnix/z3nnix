@@ -9,7 +9,6 @@ I am a programmer, I know different languages and write different things.<br>I a
 
 ## 🎩 Working on:
 - [Raccoon](https://github.com/rcsource/raccoon)
-- [RPK](https://github.com/rcsource/rpk)
 
 ## 💡 Contact with me:
 - [Telegram](https://t.me/setscript)
