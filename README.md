@@ -1,15 +1,22 @@
 # 👋 Hello, I'm SetScript!
-I am a programmer, I know different languages and write different things.<br>I am currently working on the Raccoon programming language.
+I am a programmer, I know different languages and write different things.
 ## 🦷 Skills:
-- Languages: `Ruby`,`Python`,`C`,`Rust`,`Kotlin`, `Nim`
+- Languages: `Ruby`,`Python`,`C`,`Rust`,`Kotlin`, `Nim`,`shell`
 - Tools:
-`Git`,`gem`,`pip`,`cargo`,`Cmake`, `ocra`,`pyinstaller`
+`Git`,`Gem`,`Pip3`,`Cmake`,`Cargo`,`Nimble`
 ## 🧸 Git Statistics:
-![Статистика](https://github-readme-stats.vercel.app/api?username=SetScript&&show_icons=true&theme=radical)
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=SetScript&&layout=compact&theme=radical)
+![Statistic](https://github-readme-stats.vercel.app/api?username=SetScript&&show_icons=true&theme=radical)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SetScript&&layout=compact&theme=radical)
+
+## 🔥 Use now:
+- [FreeBSD](https://www.freebsd.org)
+## 🔥 Used to use:
+- [ArchLinux](https://archlinux.org/)
+- [Manjaro](https://manjaro.org)
 
 ## 🎩 Working on:
 - [Raccoon](https://github.com/rcsource/raccoon)
-
+- [OpenRFS](https://github.com/openrfs)
+  
 ## 💡 Contact with me:
 - [Telegram](https://t.me/setscript)
