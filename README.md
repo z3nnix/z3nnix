@@ -15,7 +15,7 @@ I am a programmer, I know different languages and write different things.
 - [Manjaro](https://manjaro.org)
 
 ## 🎩 Working on:
-- [OpenFort](https://github.com/setscript/OpenFort)
+- nothing
   
 ## 💡 Contact with me:
-- [Telegram](https://t.me/setscript)
+- [Telegram](https://t.me/arbuzk88)
