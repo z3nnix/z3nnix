@@ -17,7 +17,7 @@ I am a programmer, I know different languages and write different things.
 - [Manjaro](https://manjaro.org)
 - [FreeBSD](https://www.freebsd.org)
 ## 🎩 Working on:
-- [Bacalex](https://t.me/BacalexOS)
+- [Bacalex](https://github.com/Bacalex)
   
 ## 💡 Contact with me:
 - [Telegram](https://t.me/arbuzk88)
