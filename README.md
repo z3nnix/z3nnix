@@ -18,6 +18,7 @@ I am a programmer, I know different languages and write different things.
 - [Manjaro](https://manjaro.org)
 - [FreeBSD](https://www.freebsd.org)
 ## 🎩 Working on:
+- [Thefetch](https://github.com/setscript/thefetch)
 - [Bacalex](https://github.com/Bacalex)
   
 ## 💡 Contact with me:
