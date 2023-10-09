@@ -12,7 +12,7 @@ I am a programmer, I know different languages and write different things.
 
 ## 🔥 Use now:
 - [ArchCraft](https://archcraft.io)
-## 🔥 Used to use:
+## 🔥 Used before:
 - [LinuxMint](https://linuxmint.com)
 - [ArchLinux](https://archlinux.org/)
 - [Manjaro](https://manjaro.org)
