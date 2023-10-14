@@ -11,8 +11,9 @@ I am a programmer, I know different languages and write different things.
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=setscript&&layout=compact&theme=radical)
 
 ## 🔥 Use now:
-- [ArchCraft](https://archcraft.io)
+- [Ubuntu sway Remix](https://ubuntuusway.com)
 ## 🔥 Used before:
+- [ArchCraft](https://archcraft.io)
 - [LinuxMint](https://linuxmint.com)
 - [ArchLinux](https://archlinux.org/)
 - [Manjaro](https://manjaro.org)
