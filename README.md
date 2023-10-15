@@ -1,7 +1,7 @@
 # 👋 Hi, I'm SetScript!
 I am a programmer, I know different languages and write different things.
 ## 🦷 Skills:
-- Languages: `Ruby`,`Python`,`C`,`Rust`,`Kotlin`, `Nim`,`shell`
+- Languages: `Ruby`,`Python`,`C`,`Rust`, `Nim`,`shell`
 - Tools:
 `Git`,`Gem`,`Pip3`,`Cmake`,`Cargo`,`Nimble`
 ## 🧸 Git Statistics:
@@ -19,8 +19,7 @@ I am a programmer, I know different languages and write different things.
 - [Manjaro](https://manjaro.org)
 - [FreeBSD](https://www.freebsd.org)
 ## 🎩 Working on:
-- [Thefetch](https://github.com/setscript/thefetch)
-- [Bacalex](https://github.com/Bacalex)
+- @lumitstudio
   
 ## 💡 Contact with me:
 - [Telegram](https://t.me/arbuzk88)
