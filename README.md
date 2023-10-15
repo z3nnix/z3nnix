@@ -19,7 +19,7 @@ I am a programmer, I know different languages and write different things.
 - [Manjaro](https://manjaro.org)
 - [FreeBSD](https://www.freebsd.org)
 ## 🎩 Working on:
-- @lumitstudio
+- [Lumit](https://github.com/lumitstudio)
   
 ## 💡 Contact with me:
 - [Telegram](https://t.me/arbuzk88)
