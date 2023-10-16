@@ -23,5 +23,3 @@ I am a programmer, I know different languages and write different things.
   
 ## 💡 Contact with me:
 - [Telegram](https://t.me/arbuzk88)
-
--[Email](https://proton.me] : setscript@proton.me
