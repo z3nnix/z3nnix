@@ -9,7 +9,7 @@ I am a programmer, I know different languages and write different things.
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=SetScript&&layout=compact&theme=radical)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=setscript&&layout=compact&theme=radical)
-![Stats](http://vps.dest4590.lol:3000/get/@setscript)
+![Counter](https://count.getloli.com/get/@setscript?theme=rule34) 
 
 ## 🔥 Use now:
 - [Ubuntu sway Remix](https://ubuntusway.com)
