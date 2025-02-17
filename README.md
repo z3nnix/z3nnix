@@ -30,4 +30,5 @@
 <h1 align="center">📈 GitHub Stats</h1>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=z3nnix&show_icons=true&theme=dark" alt="z3nnix's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3nnix&&layout=compact&theme=dark">
 </div>
