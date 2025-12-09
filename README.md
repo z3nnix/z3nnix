@@ -2,7 +2,7 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
     Hi there, I'm <a href="https://z3nn1x.t.me" target="_blank">Zennix</a>
 </h1>
-<h3 align="center">OS-dev and compiling-dev from Russia 🇷🇺</h3> 
+<h3 align="center">OS-dev from Russia 🇷🇺</h3> 
 <br>
 <h1 align="center">Skills</h1>
 <div align="center">
@@ -20,9 +20,6 @@
 
 <h1 align="center">My projects</h1>
 <div align="center">
-    <a href="https://github.com/z3nnix/juno-lang" target="_blank">
-        <img src="https://raw.githubusercontent.com/z3nnix/z3nnix/main/juno-logo.png" width="40px" alt="Juno Logo">
-    </a>
     <a href="https://github.com/z3nnix/novariaos" target="_blank">
         <img src="https://raw.githubusercontent.com/z3nnix/z3nnix/main/novaria-logo.jpg" width="40px" alt="Novaria Logo">
     </a>
